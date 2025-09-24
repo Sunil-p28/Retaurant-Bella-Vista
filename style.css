@@ -364,6 +364,9 @@ body{
     background-color: var(--primary-color);
     color: white;
 }
+.social-link a:hover{
+    opacity:1000;
+}
 .footer-bottom{
     text-align: center;
     padding-top: 2rem;
